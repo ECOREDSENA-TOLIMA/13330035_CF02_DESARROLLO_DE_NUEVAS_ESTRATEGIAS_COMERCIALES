@@ -10,12 +10,12 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo
-          h2 Nombre_de_la_actividad
-        p.mb-4 Objetivo_actividad
+          h2 La política comercial
+        p.mb-4 Validar el conocimiento adquirido sobre la gestión de clientes y el portafolio de servicios.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo_de_actividad
+              p.fw-bold.mb-0 Falso o verdadero
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
