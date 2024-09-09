@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1241.002" height="489" viewBox="0 0 1241.002 489">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.031" y1="0.677" x2="1.011" y2="0.675" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7df2e6"/>
+      <stop offset="1" stop-color="#c5fff9"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_377901" data-name="Rectángulo 377901" width="1241" height="489" rx="20" transform="translate(0.347)" fill="#87fbef"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1072832" data-name="Grupo 1072832" transform="translate(-98.678 -70)">
+    <rect id="Rectángulo_377899" data-name="Rectángulo 377899" width="1241" height="489" rx="20" transform="translate(1339.678 559) rotate(180)" fill="url(#linear-gradient)"/>
+    <g id="Enmascarar_grupo_154360" data-name="Enmascarar grupo 154360" transform="translate(98.333 70)" clip-path="url(#clip-path)">
+      <rect id="Rectángulo_377900" data-name="Rectángulo 377900" width="253" height="678" rx="126.5" transform="translate(948.345 -339)" fill="#94fff4"/>
+      <rect id="Rectángulo_377902" data-name="Rectángulo 377902" width="186" height="499" rx="93" transform="translate(67.347 666) rotate(180)" fill="#a1fbf3"/>
+      <g id="Elipse_5984" data-name="Elipse 5984" transform="translate(716.347 -173)" fill="none" stroke="#fff" stroke-width="3" opacity="0.8">
+        <circle cx="299" cy="299" r="299" stroke="none"/>
+        <circle cx="299" cy="299" r="297.5" fill="none"/>
+      </g>
+      <g id="Elipse_5985" data-name="Elipse 5985" transform="translate(-140.653 404)" fill="none" stroke="#fff" stroke-width="3">
+        <circle cx="115" cy="115" r="115" stroke="none"/>
+        <circle cx="115" cy="115" r="113.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_1072705" data-name="Grupo 1072705" transform="translate(1310.334 97.059) rotate(90)">
+      <line id="Línea_2903" data-name="Línea 2903" x1="63.422" transform="translate(0 63.422) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Línea_2904" data-name="Línea 2904" x2="60.664" transform="translate(11.031 90.996) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Línea_2905" data-name="Línea 2905" x2="2.757" transform="translate(11.031 20.681) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <path id="Trazado_610205" data-name="Trazado 610205" d="M0,0" transform="translate(176.193 148.106) rotate(180)" fill="none" stroke="#60cbc1" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

@@ -233,7 +233,7 @@ export default {
     {
       referencia:
         'Negrín, J. A. (2019). Política de crédito y gestión de riesgos. Editorial Financiera.',
-      link: 'Link_referencias',
+      link: '',
     },
   ],
   creditos: [
