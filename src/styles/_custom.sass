@@ -20,7 +20,11 @@
 
 
 .fondo-1 
-  background-image: url('../assets/curso/temas/fondo-1.png')
+  background: linear-gradient(to bottom, #FFF, #E0FDFB, #FFF)
+  margin-inline: -2rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+  // background-image: url('../assets/curso/temas/fondo-1.png')
 
 .fondo-s1 
   background-image: url('../assets/curso/temas/tema2/fslider.svg')
@@ -200,3 +204,5 @@
   @media (max-width: 1000px)
     display: none
     
+ul.lista-ul--color li, ul.lista-ul li
+  display: flex

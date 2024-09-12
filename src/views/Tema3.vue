@@ -41,10 +41,10 @@
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema3/img_4.png', alt='')
-          .row(titulo="Marketing digital y uso de tecnologías emergentes")
+          .row(titulo="<em>Marketing</em> digital y uso de tecnologías emergentes")
             .col-12.mb-4.mb-md-0
-              p.mb-3 En la era digital, el marketing digital se ha convertido en una de las estrategias más poderosas para las entidades financieras. Esto incluye el uso de plataformas de redes sociales, marketing por correo electrónico, publicidad en línea y optimización de motores de búsqueda (SEO). Además, el uso de tecnologías emergentes, como la inteligencia artificial (IA) y el #[em big data], permite a las entidades financieras personalizar aún más sus ofertas y mejorar la experiencia del cliente.
-              p.ps-3 #[b Ejemplo:] un banco puede utilizar la IA para analizar patrones de comportamiento de sus clientes y, a partir de estos datos, enviar ofertas personalizadas de productos financieros a través de campañas de marketing digital. Además, el uso de #[em chatbots] impulsados por IA puede mejorar la atención al cliente, proporcionando respuestas rápidas y precisas a consultas comunes.
+              p.mb-3 En la era digital, el #[em marketing] digital se ha convertido en una de las estrategias más poderosas para las entidades financieras. Esto incluye el uso de plataformas de redes sociales, #[em marketing] por correo electrónico, publicidad en línea y optimización de motores de búsqueda (SEO). Además, el uso de tecnologías emergentes, como la inteligencia artificial (IA) y el #[em big data], permite a las entidades financieras personalizar aún más sus ofertas y mejorar la experiencia del cliente.
+              p.ps-3 #[b Ejemplo:] un banco puede utilizar la IA para analizar patrones de comportamiento de sus clientes y, a partir de estos datos, enviar ofertas personalizadas de productos financieros a través de campañas de #[em marketing] digital. Además, el uso de #[em chatbots] impulsados por IA puede mejorar la atención al cliente, proporcionando respuestas rápidas y precisas a consultas comunes.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema3/img_5.png', alt='')
@@ -57,14 +57,14 @@
                 img(src='@/assets/curso/temas/tema3/img_6.png', alt='')
 
     .row.mb-4.justify-content-center.align-items-center
-      .col-md-10.col-12(data-aos="fade-right")
+      .col-lg-10.col-12(data-aos="fade-right")
         p La implementación efectiva de estrategias comerciales requiere una planificación cuidadosa, recursos adecuados y la capacidad de adaptarse a cambios en el entorno del mercado. Las entidades financieras deben:
 
     .row.mb-4.p-4.justify-content-center.align-items-center
-      .col-md-7.col-lg-6.col-12(data-aos="fade-right")
+      .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure.d-none.d-sm-none.d-md-block
           img(src='@/assets/curso/temas/tema3/img_7.png', alt='')
-      .col-md-5.col-lg-4.col-12(data-aos="fade-right")
+      .col-lg-4.col-12(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="Evaluar el entorno competitivo") Entender quiénes son los competidores y cómo se están posicionando en el mercado.
           p(numero="2" titulo="Definir objetivos claros") Establecer metas específicas, medibles y alcanzables para cada estrategia comercial.
@@ -75,17 +75,17 @@
     p.mb-4(data-aos="fade-left") Estas estrategias se ven complementadas con un plan de incentivos tanto para los clientes como para los funcionarios, estrategias que sin lugar a dudas genera una actitud positiva y contribuye a su desarrollo, logrando los objetivos propuestos y cumpliendo con la política comercial.
 
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
-      .col-lg-4.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-4.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema3/img_8.png', alt='')
-      .col-lg-6.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-6.col-12(data-aos="fade-right")
         p.mb-2 Para la formulación de una estrategia de vinculación o de fidelización de un cliente es necesario indagar previamente sus expectativas y necesidades para así ofrecerle realmente los productos que le proporcionen un incremento en sus actividades comerciales. Una vez establecidas las expectativas y necesidades de los clientes, aplicando el conocimiento que se tiene del portafolio de productos y servicios, no se debe dudar en estructurar la oferta individual. Esta debe estar soportada por los elementos de oportunidad, confiabilidad y claridad, para que el cliente la acepte de forma inmediata. Una vez presentada la estrategia es importante realizarles un estricto seguimiento y control a todos y cada uno de los acuerdos celebrados entre las partes.
         p.mb-2 Los bancos obtienen dinero con base en el total de depósitos mantenidos y préstamos emitidos. Los consumidores tienen muchos bancos y cooperativas de crédito para elegir, todos compitiendo por su cuenta de cheques, de ahorros y de las necesidades de préstamo. En los mercados altamente competitivos, los bancos deben utilizar estrategias para adquirir y conservar los activos de los clientes nuevos y de los ya existentes.
 
     p.mb-4(data-aos="fade-left") Las estrategias comerciales que más se aplican en las entidades financieras son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-md-10.mb-4(data-aos="zoom-in-down")
+      .col-12.col-lg-10.mb-4(data-aos="zoom-in-down")
         ImagenInfograficaB.color-acento-botones
           template(v-slot:imagen)
             figure

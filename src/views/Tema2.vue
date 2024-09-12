@@ -23,31 +23,31 @@
     .fondo-s1.p-4.p-lg-5.row.mb-4.justify-content-center.align-items-center(data-aos="fade-right")
       SlyderA(tipo="b")
         .row
-          .col-md-7.col-12.mb-4.mb-md-0
+          .col-lg-7.col-12.mb-4.mb-lg-0
             h4 Venta consultiva
             p Esta técnica se centra en entender profundamente las necesidades del cliente antes de ofrecer una solución. El asesor actúa como un consultor que analiza la situación del cliente, identifica sus necesidades y recomienda el producto o servicio que mejor se adapte a sus circunstancias. Esta técnica es especialmente efectiva en la venta de productos financieros complejos, como hipotecas o inversiones, donde es crucial que el cliente sienta que se le está ofreciendo una solución personalizada.
-          .col-md-5.col-12
+          .col-lg-5.col-12
             figure
               img(src='@/assets/curso/temas/tema2/img_2.png', alt='')
         .row
-          .col-md-7.col-12.mb-4.mb-md-0
+          .col-lg-7.col-12.mb-4.mb-lg-0
             h4 Venta cruzada (#[em cross-selling])
             p Esta técnica implica ofrecer productos o servicios adicionales al cliente que complementen los que ya ha adquirido o está considerando adquirir. Por ejemplo, si un cliente abre una cuenta de ahorro, el asesor podría sugerirle una tarjeta de crédito que le ofrezca beneficios adicionales por utilizarla en conjunto con su cuenta. La venta cruzada no solo aumenta las ventas, sino que también fortalece la relación con el cliente al ofrecerle un paquete de soluciones integradas.
-          .col-md-5.col-12
+          .col-lg-5.col-12
             figure
               img(src='@/assets/curso/temas/tema2/img_3.png', alt='')
         .row
-          .col-md-7.col-12.mb-4.mb-md-0
+          .col-lg-7.col-12.mb-4.mb-lg-0
             h4 #[em Upselling]
             p A diferencia de la venta cruzada, el #[em upselling] consiste en persuadir al cliente para que adquiera una versión superior o más costosa de un producto o servicio. Por ejemplo, si un cliente está interesado en un seguro de vida básico, el asesor podría sugerirle una póliza que ofrezca más cobertura o beneficios adicionales. Esta técnica es efectiva cuando se presenta el valor agregado de la opción más cara de manera clara y convincente.
-          .col-md-5.col-12
+          .col-lg-5.col-12
             figure
               img(src='@/assets/curso/temas/tema2/img_4.png', alt='')
         .row
-          .col-md-7.col-12.mb-4.mb-md-0
+          .col-lg-7.col-12.mb-4.mb-lg-0
             h4 #[em Venta emocional]
             p Esta técnica se basa en conectar con el cliente a nivel emocional, entendiendo y apelando a sus deseos, miedos o aspiraciones. En el sector financiero, esto podría implicar enfocarse en la seguridad y tranquilidad que un producto financiero puede ofrecer a largo plazo. Los asesores que dominan esta técnica saben cómo crear un vínculo emocional con el cliente, lo que facilita la toma de decisiones favorables.
-          .col-md-5.col-12
+          .col-lg-5.col-12
             figure
               img(src='@/assets/curso/temas/tema2/img_5.png', alt='')
 
@@ -68,8 +68,8 @@
     
     p.mb-4(data-aos="fade-left") La efectividad de las técnicas de venta mencionadas depende en gran medida de la calidad de la comunicación entre el asesor y el cliente. La comunicación no solo debe ser clara y precisa, sino también adaptada a las necesidades y expectativas del cliente. A continuación, se destacan algunas técnicas de comunicación esenciales para lograr una interacción exitosa:
 
-    .row.mb-4.p-4.justify-content-center.align-items-center
-      .col-lg-8.col-md-8.col-12(data-aos="fade-right")
+    .row.mb-4.justify-content-center.align-items-center
+      .col-lg-8.col-12(data-aos="fade-right")
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Comunicación asertiva")
             .col-12.mb-4.mb-md-0
@@ -86,7 +86,7 @@
           .row(titulo="Adaptabilidad")
             .col-12.mb-4.mb-md-0
               p La capacidad de adaptar el estilo de comunicación según el perfil del cliente es fundamental. Algunos clientes pueden preferir una comunicación más directa y técnica, mientras que otros pueden responder mejor a un enfoque más conversacional y emocional. Un buen asesor sabe identificar estas preferencias y ajustar su enfoque para maximizar el impacto de su mensaje. 
-      .col-lg-4.col-md-4.col-12.d-none.d-sm-none.d-md-block(data-aos="fade-right")
+      .col-lg-4.col-10.d-none.d-sm-none.d-lg-block(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema2/img_6.png', alt='')
 
@@ -132,12 +132,12 @@
               p Forma de comunicación verbal e interactiva, mediante la cual se transmite información de forma directa y personal a un cliente potencial específico y se recibe de forma simultánea e inmediata la respuesta del destinatario de la información.
 
     .row.mb-4.p-4.justify-content-center.align-items-center
-      .col-md-7.col-12(data-aos="fade-right")
+      .col-lg-7.col-12.lg-mb-0.mb-4(data-aos="fade-right")
         p Para lograr los resultados esperados es necesario combinar las fuerzas y debilidades de las herramientas de comunicación y de esta manera llegar a todos los clientes con un mensaje claro y preciso de los productos y servicios, para que sean percibidos e interpretados de la forma correcta.
         p A continuación, se enuncian aspectos que se deben tener en cuenta para que la comunicación comercial sea asertiva y efectiva, con el fin de convertir a los clientes potenciales en clientes reales de la entidad y que los actuales permanezcan en ella:
-        figure.d-none.d-sm-none.d-md-block
+        figure.d-none.d-sm-none.d-lg-block
           img(src='@/assets/curso/temas/tema2/img_7.png', alt='')
-      .col-md-5.col-12(data-aos="fade-right")
+      .col-lg-5.col-12(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="Mirada") La forma en la cual se mira al receptor del mensaje demuestra el interés aumentando la cercanía y confianza.
           p(numero="2" titulo="Postura corporal") La postura debe ser abierta, ya que la comunicación no verbal demuestra interés y sinceridad, el sentarse de la manera adecuada o el estar de pie demostrando seguridad es importante para que el cliente perciba el mensaje.
@@ -149,7 +149,7 @@
     p.mb-5(data-aos="fade-left") De manera muy seguida se presentan errores en la forma de expresar un mensaje comercial, el cliente lo nota con facilidad y lo toma como criterio fundamental en sus decisiones, por lo tanto hay que recordar que:
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-md-10.col-lg-8.col-12.cajon.color-primario.p-4(data-aos="fade-right") 
+      .col-md-12.col-lg-8.col-12.cajon.color-primario.p-4(data-aos="fade-right") 
         .row.align-items-center
           .col-md-2
             figure

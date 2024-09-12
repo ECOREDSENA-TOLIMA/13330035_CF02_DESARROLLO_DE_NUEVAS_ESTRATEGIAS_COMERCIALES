@@ -8,10 +8,10 @@
       h1 Normatividad 
     
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
-      .col-lg-5.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-5.col-10.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema7/img_1.png', alt='')
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12(data-aos="fade-right")
         p.mb-2 La normatividad que aplica a las entidades financieras es la misma que regula la venta de productos y servicios a nivel nacional. Estas normas están diseñadas para garantizar que las operaciones de las entidades financieras se realicen de manera legal, ética y conforme a los más altos estándares de calidad, protegiendo tanto a la institución como a los clientes que utilizan sus servicios.
         p.mb-2 Tanto las normas internas como las leyes nacionales forman la base sobre la cual se presta el servicio financiero. Cumplir con estas normativas no solo es esencial para evitar sanciones, incluyendo el posible cierre de la institución, sino que también es crucial para cumplir con las expectativas del cliente, asegurando que reciban un servicio de calidad que se ajuste a sus necesidades y que respete sus derechos.
         p.mb-2 Las normas institucionales, que suelen estar alineadas con la legislación nacional, abordan una serie de aspectos clave que son fundamentales para la operación efectiva y responsable de la entidad financiera. Entre estos aspectos se incluyen:

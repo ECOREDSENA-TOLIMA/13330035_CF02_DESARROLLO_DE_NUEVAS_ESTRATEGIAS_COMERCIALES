@@ -10,10 +10,10 @@
     p.mb-4(data-aos="fade-left") Un servicio de calidad se define como aquel que no solo cumple con los requisitos del cliente, sino que también busca constantemente superar sus expectativas. En el sector financiero, ofrecer un servicio de calidad es fundamental para establecer relaciones de confianza y fidelidad con los clientes. Este enfoque no solo mejora la percepción de la entidad, sino que también es crucial para su sostenibilidad y éxito a largo plazo.
 
     .row.mb-4.justify-content-center.align-items-center
-      .col-lg-4.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-4.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img_1.png', alt='')
-      .col-lg-6.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-6.col-12(data-aos="fade-right")
         p.mb-2 La frase "El cliente es primero" es comúnmente utilizada en muchas entidades financieras, reflejando un compromiso con la satisfacción del cliente. Este principio enfatiza la importancia de priorizar las necesidades y expectativas de los clientes en todas las operaciones y decisiones de la entidad. No se trata únicamente de ofrecer un producto o servicio, sino de proporcionar una experiencia integral que demuestre al cliente que su bienestar y satisfacción son la máxima prioridad.
         p.mb-2 El concepto de servicio de calidad al cliente puede entenderse como el conjunto de prestaciones que el cliente espera, además del producto o servicio básico. Es una filosofía que permea toda la organización, donde cada empleado, independientemente de su rol, debe actuar y sentir que su objetivo principal es crear clientes satisfechos y leales. Estos clientes, a su vez, son los que eventualmente atraerán a otros nuevos, contribuyendo al crecimiento y expansión de la entidad.
       .col-lg-10.col-12.mt-4

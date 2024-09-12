@@ -16,35 +16,35 @@
     
     TabsC.color-acento-botones(data-aos="flip-up")
       .py-3.py-md-4(titulo="Política comercial")
-        .row
-          .col-md-4.col-12.mb-4.mb-md-0
+        .row.p-3
+          .col-lg-4.col-12.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema5/img_2.png', alt='')
-          .col-md-8.col-12
+          .col-lg-8.col-12
             h4 Cumplimiento de la política comercial
             p La política comercial de una entidad financiera establece las directrices y estrategias que deben seguirse para la comercialización de productos y servicios. Esta política no solo orienta las acciones comerciales, sino que también asegura que las operaciones de la entidad estén alineadas con sus objetivos estratégicos y con el marco regulatorio aplicable. Los asesores comerciales deben estar plenamente familiarizados con estas políticas para poder ofrecer productos y servicios que no solo satisfagan las necesidades de los clientes, sino que también sean coherentes con los lineamientos establecidos por la entidad. Un asesor bien informado sobre la política comercial puede adaptar su enfoque de ventas para cumplir con las expectativas de los clientes, mientras contribuye a los objetivos de la entidad, como el crecimiento de la cartera de clientes, la fidelización y la mitigación de riesgos.
-      .py-3.py-md-4(titulo="Cumplimiento de la normatividad")
-        .row
-          .col-md-4.col-12.mb-4.mb-md-0
+      .py-3.py-lg-4(titulo="Cumplimiento de la normatividad")
+        .row.p-3
+          .col-lg-4.col-12.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema5/img_3.png', alt='')
-          .col-md-8.col-12
+          .col-lg-8.col-12
             h4 Cumplimiento de la normatividad legal vigente
             p La normatividad legal en el sector financiero es compleja y en constante evolución. Incluye regulaciones nacionales e internacionales que rigen aspectos como la protección al consumidor, la transparencia en las transacciones, la prevención del lavado de dinero, y el cumplimiento tributario, entre otros. Un asesor comercial debe estar actualizado y comprender en profundidad estas normativas para asegurar que las operaciones realizadas no solo sean efectivas desde el punto de vista comercial, sino también legales y éticas. Esto no solo protege a la entidad de posibles sanciones, sino que también refuerza la confianza del cliente en la entidad. Cuando un asesor demuestra un sólido conocimiento de la normativa, puede guiar al cliente con seguridad y precisión, asegurando que cada transacción cumpla con las leyes aplicables y con las políticas internas de la entidad.
-      .py-3.py-md-4(titulo="Enriquecimiento continuo")
-        .row
-          .col-md-4.col-12.mb-4.mb-md-0
+      .py-3.py-lg-4(titulo="Enriquecimiento continuo")
+        .row.p-3
+          .col-lg-4.col-12.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema5/img_4.png', alt='')
-          .col-md-8.col-12
+          .col-lg-8.col-12
             h4 Enriquecimiento continuo del asesor
             p Además de cumplir con la política comercial y la normatividad legal, es fundamental que el asesor comercial busque un enriquecimiento continuo de su conocimiento y habilidades. Esto implica estar al tanto de las últimas tendencias en el mercado financiero, así como de las actualizaciones en las políticas y normativas que puedan afectar su trabajo. La formación continua y el desarrollo profesional son esenciales para que el asesor no solo se mantenga competente, sino que también pueda ofrecer un valor agregado a sus clientes. Un asesor bien informado y capacitado puede anticipar cambios en el entorno regulatorio y comercial, y ajustar su enfoque en consecuencia, lo que le permite proporcionar un servicio más completo y eficaz.
-      .py-3.py-md-4(titulo="Impacto en la satisfacción")
-        .row
-          .col-md-4.col-12.mb-4.mb-md-0
+      .py-3.py-lg-4(titulo="Impacto en la satisfacción")
+        .row.p-3
+          .col-lg-4.col-12.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema5/img_5.png', alt='')
-          .col-md-8.col-12
+          .col-lg-8.col-12
             h4 Impacto en la satisfacción del cliente y el cumplimiento normativo
             p Cuando un asesor comercial combina sus cualidades personales con un profundo conocimiento de la política comercial y la normatividad vigente, el impacto en la satisfacción del cliente es significativo. El cliente no solo recibe un servicio que está alineado con sus expectativas y necesidades, sino que también puede estar seguro de que todas las transacciones y recomendaciones cumplen con las regulaciones aplicables. Esto refuerza la confianza del cliente en la entidad financiera y contribuye a una relación a largo plazo basada en la transparencia, la legalidad y la satisfacción mutua.
 
@@ -63,7 +63,7 @@
     p.mb-4(data-aos="fade-left") Con fundamento en estos cambios presentados en la formulación y venta de los productos y servicios financieros, a continuación, encontrará la descripción de las características del puesto de trabajo:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-10.col-12
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Características del puesto de trabajo</i>
         figure
@@ -73,7 +73,7 @@
     p.mb-4(data-aos="fade-left") Debido a que en la mayoría de los casos el asesor va a captar directamente fondos de los clientes, no puede utilizar sistemas de persuasión demasiado agresivos por la carga emocional que el dinero causa en las personas. Debe emplear técnicas de ventas a baja presión, dar tiempo a su interlocutor para pensar, debe transmitir una impresión de seriedad y honestidad para ganarse la confianza del cliente; de esta manera es necesario conocer algunas de las tareas que desarrolla el asesor.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-10.col-12
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Tareas del asesor comercial</i>
         figure
@@ -84,7 +84,7 @@
     p.mb-4(data-aos="fade-left") Las personas encargadas de dar asesoría pueden ocupar cargos bastante diversos dentro de la organización o las entidades financieras y desarrollar otras funciones además de las aquí consideradas. En cualquier caso, un asesor comercial desarrolla una serie de funciones que se describen a continuación:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-10.col-12
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Funciones del asesor comercial</i>
         figure
@@ -94,7 +94,7 @@
     p.mb-4(data-aos="fade-left") Para ejercer la función de asesor comercial no es necesario disfrutar de ninguna cualidad especial. No obstante, para llegar a tener éxito en el desempeño, hay que poseer ciertas características personales, así como un conjunto de actitudes profesionales, sin las cuales todo esfuerzo de venta y atención al cliente estará condenado a la mediocridad. Las cualidades del asesor deben ser:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-10.col-12
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Cualidades del asesor comercial</i>
         figure 
@@ -109,7 +109,7 @@
     p.mb-4(data-aos="fade-left") Un asesor comercial para desempeñarse con éxito necesita recibir unos conocimientos específicos y una formación profesional que le permitan desenvolverse sin problemas en las diversas situaciones que se le pueden plantear.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-10.col-12
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Conocimientos y formación del asesor comercial</i>
         figure 
@@ -125,73 +125,73 @@
     .fondo-3.tarjeta.p-4.mb-5(data-aos="fade-down")
       LineaTiempoC.color-acento-botones
         .row(titulo="I")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Conoce a tu cliente
             p El primer paso para una asesoría comercial exitosa es conocer bien al cliente. Esto implica realizar una investigación previa y recopilar toda la información posible sobre el historial financiero, las necesidades, y las expectativas del cliente. Utiliza herramientas como el CRM (#[em Customer Relationship Management]) para tener un perfil detallado del cliente antes de la reunión. Conocer a tu cliente te permitirá ofrecerle soluciones más personalizadas y relevantes, aumentando la probabilidad de éxito en la venta.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_6.png', alt='')
         .row(titulo="II")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Escucha activamente
             p La escucha activa es una habilidad fundamental en la asesoría comercial. Asegúrate de que el cliente sienta que sus necesidades y preocupaciones son escuchadas y comprendidas. Evita interrumpir, mantén el contacto visual, y haz preguntas pertinentes para demostrar tu interés genuino en lo que el cliente tiene que decir. La escucha activa no solo construye confianza, sino que también te proporciona información valiosa para ajustar tu enfoque y ofrecer la mejor solución posible.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_7.png', alt='')
         .row(titulo="III")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Sé claro y transparente
             p La claridad y la transparencia son esenciales para construir relaciones de confianza con los clientes. Explica los productos y servicios de manera sencilla y directa, sin utilizar jerga técnica que pueda confundir al cliente. Asegúrate de que el cliente comprenda todos los aspectos de la oferta, incluidos los costos, beneficios, riesgos, y condiciones. La transparencia en la asesoría comercial no solo ayuda a evitar malentendidos, sino que también fortalece la relación a largo plazo.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_8.png', alt='')
         .row(titulo="IV")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Adapta tu comunicación al perfil del cliente
             p No todos los clientes son iguales, y tu estilo de comunicación debe adaptarse a las preferencias y personalidad del cliente. Algunos clientes pueden preferir un enfoque más técnico y detallado, mientras que otros valoran una conversación más informal y orientada a las emociones. Identifica rápidamente el estilo de comunicación que mejor se ajusta a cada cliente y adapta tu enfoque en consecuencia. La flexibilidad en la comunicación es clave para conectar eficazmente con el cliente.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_9.png', alt='')
         .row(titulo="V")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Ofrece soluciones personalizadas
             p Una de las claves para una asesoría comercial exitosa es ofrecer soluciones que estén específicamente diseñadas para satisfacer las necesidades del cliente. Evita las ofertas genéricas y, en su lugar, presenta productos y servicios que realmente aporten valor al cliente. Esto no solo demuestra tu conocimiento y comprensión de las circunstancias del cliente, sino que también incrementa la posibilidad de cerrar la venta y fortalecer la lealtad del cliente hacia la entidad.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_10.png', alt='')
         .row(titulo="VI")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Maneja objeciones con confianza
             p Es natural que los clientes expresen dudas o preocupaciones durante el proceso de asesoría. Manejar estas objeciones de manera efectiva es crucial para mantener la confianza del cliente y avanzar en la conversación. En lugar de ver las objeciones como un obstáculo, considéralas como una oportunidad para aclarar malentendidos, reforzar los beneficios del producto y demostrar tu conocimiento y profesionalismo. Responde a las objeciones con hechos, ejemplos, y una actitud positiva.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_11.png', alt='')
         .row(titulo="VII")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Enfócate en construir relaciones a largo plazo
             p La asesoría comercial exitosa no se trata solo de cerrar una venta, sino de construir una relación duradera con el cliente. Muestra un interés genuino en el bienestar financiero del cliente y ofrécele asesoría continua incluso después de la venta. Mantén un contacto regular para informarle sobre nuevas oportunidades y asegúrate de estar disponible para responder a cualquier pregunta o inquietud que pueda surgir. Las relaciones a largo plazo no solo aumentan la satisfacción del cliente, sino que también generan más oportunidades de negocio a través de referencias y ventas adicionales.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_12.png', alt='')
         .row(titulo="VIII")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Mantente actualizado y capacitado
             p El mercado financiero es dinámico y está en constante evolución. Para ser un asesor comercial exitoso, es esencial mantenerse actualizado sobre las últimas tendencias, productos, y regulaciones. Participa en programas de capacitación continua y aprovecha las oportunidades de aprendizaje para mejorar tus habilidades y conocimientos. Un asesor bien informado es un recurso invaluable para los clientes y tiene más probabilidades de ofrecer soluciones efectivas y pertinentes.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_13.png', alt='')
         .row(titulo="IX")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Cumple tus promesas
             p Nada daña más la confianza del cliente que un asesor que no cumple con sus promesas. Asegúrate de que todas las promesas que haces durante la asesoría sean realistas y alcanzables. Si prometes un seguimiento, una llamada o la entrega de información adicional, asegúrate de cumplirlo puntualmente. La fiabilidad y la consistencia son fundamentales para construir y mantener la confianza del cliente.
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_14.png', alt='')
         .row(titulo="X")
-          .col-md-6.col-12.mb-4.mb-md-0
+          .col-lg-6.col-12.mb-4.mb-lg-0
             h4 Evalúa y mejora continuamente
             p Finalmente, una asesoría comercial exitosa requiere de una evaluación continua. Después de cada interacción con un cliente, reflexiona sobre lo que funcionó bien y lo que podría mejorarse. Solicita #[em feedback] a los clientes cuando sea posible, y utiliza esta información para ajustar tu enfoque y mejorar tu desempeño en futuras asesorías. La mejora continua es clave para mantener la relevancia y la eficacia en un entorno competitivo. 
-          .col-md-6.col-12
+          .col-lg-6.col-12
             figure
               img(src='@/assets/curso/temas/tema5/img_15.png', alt='')
 

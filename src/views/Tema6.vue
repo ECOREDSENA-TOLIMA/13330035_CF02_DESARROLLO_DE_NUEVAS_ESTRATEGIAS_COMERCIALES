@@ -19,10 +19,10 @@
       h2 6.1 Política comercial
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-lg-4.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-4.col-10.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema6/img_2.png', alt='')
-      .col-lg-8.col-md-8.col-12(data-aos="fade-right") 
+      .col-lg-8.col-12(data-aos="fade-right") 
         .row.align-items-center
           .col-md-12
             .cajon.color-primario.p-4.mb-2
@@ -50,7 +50,7 @@
     p.mb-4(data-aos="fade-left") Algunos de los puntos a tener en cuenta para fijar la política de crédito son los siguientes:
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-10.col-12
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 7. </b> <i>Aspectos de la política de crédito</i>
         figure
