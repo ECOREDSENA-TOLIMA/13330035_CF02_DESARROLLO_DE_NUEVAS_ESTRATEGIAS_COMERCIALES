@@ -15,43 +15,43 @@
           .row(titulo="Segmentación de mercado y personalización de ofertas")
             .col-12.mb-4.mb-md-0
               p.mb-3 La segmentación de mercado es una estrategia que implica dividir el mercado en grupos de clientes con características, necesidades y comportamientos similares. Esta segmentación permite a las entidades financieras desarrollar ofertas personalizadas que se adapten a las necesidades específicas de cada segmento, lo que aumenta la probabilidad de éxito en la comercialización de productos y servicios.
-              p.ps-3 #[b Ejemplo:] una entidad financiera puede segmentar a sus clientes en función de criterios como la edad, el nivel de ingresos, la ubicación geográfica y el comportamiento de consumo. A partir de esta segmentación, puede ofrecer productos personalizados, como tarjetas de crédito con beneficios específicos para jóvenes profesionales o planes de ahorro adaptados a personas cercanas a la jubilación.
+              p #[b Ejemplo:] una entidad financiera puede segmentar a sus clientes en función de criterios como la edad, el nivel de ingresos, la ubicación geográfica y el comportamiento de consumo. A partir de esta segmentación, puede ofrecer productos personalizados, como tarjetas de crédito con beneficios específicos para jóvenes profesionales o planes de ahorro adaptados a personas cercanas a la jubilación.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema3/img_1.png', alt='')
           .row(titulo="Fidelización de cliente")
             .col-12.mb-4.mb-md-0
               p.mb-3 La fidelización de clientes es una estrategia enfocada en mantener y fortalecer la relación con los clientes actuales, incrementando su lealtad hacia la entidad financiera. Esto se logra ofreciendo un servicio de alta calidad, programas de recompensas, descuentos exclusivos, y productos adicionales que cubran de manera integral sus necesidades financieras.
-              p.ps-3 #[b Ejemplo:] bancos y cooperativas de crédito a menudo implementan programas de fidelización que recompensan a los clientes por el uso frecuente de sus servicios, como puntos canjeables por premios o tasas de interés preferenciales en préstamos y cuentas de ahorro.
+              p #[b Ejemplo:] bancos y cooperativas de crédito a menudo implementan programas de fidelización que recompensan a los clientes por el uso frecuente de sus servicios, como puntos canjeables por premios o tasas de interés preferenciales en préstamos y cuentas de ahorro.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema3/img_2.png', alt='')
           .row(titulo="<b><em>Cross-selling y upselling</em></b>")
             .col-12.mb-4.mb-md-0
               p.mb-3 Estas son estrategias comerciales que buscan maximizar el valor del cliente existente al ofrecer productos o servicios adicionales (#[em cross-selling]) o versiones más avanzadas o costosas de un producto (#[em upselling]).
-              p.ps-3 #[b #[em Cross-selling]:] implica ofrecer productos complementarios a aquellos que el cliente ya ha adquirido o está considerando adquirir. Por ejemplo, si un cliente abre una cuenta de ahorro, el banco podría ofrecerle una tarjeta de crédito con beneficios asociados a esa cuenta.
-              p.ps-3 #[b #[em Upselling]:] consiste en persuadir al cliente para que adquiera una versión superior de un producto o servicio. Por ejemplo, un cliente que busca un préstamo personal podría ser convencido de optar por un préstamo con mayores beneficios, como un periodo de gracia más largo o una tasa de interés más baja.
+              p #[b #[em Cross-selling]:] implica ofrecer productos complementarios a aquellos que el cliente ya ha adquirido o está considerando adquirir. Por ejemplo, si un cliente abre una cuenta de ahorro, el banco podría ofrecerle una tarjeta de crédito con beneficios asociados a esa cuenta.
+              p #[b #[em Upselling]:] consiste en persuadir al cliente para que adquiera una versión superior de un producto o servicio. Por ejemplo, un cliente que busca un préstamo personal podría ser convencido de optar por un préstamo con mayores beneficios, como un periodo de gracia más largo o una tasa de interés más baja.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema3/img_3.png', alt='')
           .row(titulo="Estrategias de retención y recuperación de clientes")
             .col-12.mb-4.mb-md-0
               p.mb-3 Retener a los clientes existentes es tan importante como atraer a nuevos. Las estrategias de retención buscan minimizar la tasa de abandono de clientes, mientras que las estrategias de recuperación se centran en reactivar clientes que han dejado de utilizar los servicios de la entidad.
-              p.ps-3 #[b Ejemplo:] una entidad financiera podría ofrecer descuentos o incentivos especiales a clientes que han reducido su nivel de actividad o que han mostrado interés en transferir sus cuentas a otra institución. Adicionalmente, podrían implementar encuestas de satisfacción para identificar y abordar problemas antes de que el cliente decida abandonar la entidad.
+              p #[b Ejemplo:] una entidad financiera podría ofrecer descuentos o incentivos especiales a clientes que han reducido su nivel de actividad o que han mostrado interés en transferir sus cuentas a otra institución. Adicionalmente, podrían implementar encuestas de satisfacción para identificar y abordar problemas antes de que el cliente decida abandonar la entidad.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema3/img_4.png', alt='')
           .row(titulo="<em>Marketing</em> digital y uso de tecnologías emergentes")
             .col-12.mb-4.mb-md-0
               p.mb-3 En la era digital, el #[em marketing] digital se ha convertido en una de las estrategias más poderosas para las entidades financieras. Esto incluye el uso de plataformas de redes sociales, #[em marketing] por correo electrónico, publicidad en línea y optimización de motores de búsqueda (SEO). Además, el uso de tecnologías emergentes, como la inteligencia artificial (IA) y el #[em big data], permite a las entidades financieras personalizar aún más sus ofertas y mejorar la experiencia del cliente.
-              p.ps-3 #[b Ejemplo:] un banco puede utilizar la IA para analizar patrones de comportamiento de sus clientes y, a partir de estos datos, enviar ofertas personalizadas de productos financieros a través de campañas de #[em marketing] digital. Además, el uso de #[em chatbots] impulsados por IA puede mejorar la atención al cliente, proporcionando respuestas rápidas y precisas a consultas comunes.
+              p #[b Ejemplo:] un banco puede utilizar la IA para analizar patrones de comportamiento de sus clientes y, a partir de estos datos, enviar ofertas personalizadas de productos financieros a través de campañas de #[em marketing] digital. Además, el uso de #[em chatbots] impulsados por IA puede mejorar la atención al cliente, proporcionando respuestas rápidas y precisas a consultas comunes.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema3/img_5.png', alt='')
           .row(titulo="Desarrollo de nuevos productos y servicios")
             .col-12.mb-4.mb-md-0
               p.mb-3 La innovación en productos y servicios es una estrategia clave para mantenerse competitivo en el mercado. Esto puede implicar la creación de nuevos productos financieros, como nuevas modalidades de crédito, seguros adaptados a necesidades específicas, o servicios digitales que faciliten la gestión de las finanzas personales.
-              p.ps-3 #[b Ejemplo:] un banco podría desarrollar una nueva aplicación móvil que ofrezca a los clientes una vista consolidada de todas sus cuentas y transacciones, facilitando la gestión de sus finanzas. Además, la introducción de productos como créditos verdes, destinados a financiar proyectos sostenibles, puede atraer a clientes interesados en la responsabilidad social y ambiental.
+              p #[b Ejemplo:] un banco podría desarrollar una nueva aplicación móvil que ofrezca a los clientes una vista consolidada de todas sus cuentas y transacciones, facilitando la gestión de sus finanzas. Además, la introducción de productos como créditos verdes, destinados a financiar proyectos sostenibles, puede atraer a clientes interesados en la responsabilidad social y ambiental.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema3/img_6.png', alt='')
@@ -75,7 +75,7 @@
     p.mb-4(data-aos="fade-left") Estas estrategias se ven complementadas con un plan de incentivos tanto para los clientes como para los funcionarios, estrategias que sin lugar a dudas genera una actitud positiva y contribuye a su desarrollo, logrando los objetivos propuestos y cumpliendo con la política comercial.
 
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
-      .col-lg-4.col-10.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema3/img_8.png', alt='')
       .col-lg-6.col-12(data-aos="fade-right")

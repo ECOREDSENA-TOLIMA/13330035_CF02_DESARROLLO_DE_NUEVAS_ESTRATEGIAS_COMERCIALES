@@ -15,7 +15,7 @@
     p.mb-4(data-aos="fade-left") La política comercial y de crédito en una entidad financiera es un conjunto de directrices y principios que regulan cómo la organización ofrece sus productos y servicios al mercado, y cómo gestiona el riesgo asociado con la concesión de créditos. Estas políticas son fundamentales para asegurar la sostenibilidad financiera de la entidad, optimizar su rentabilidad y garantizar que las operaciones se realicen de manera ética y conforme a la normatividad vigente (Negrin, 2019).
 
     Separador
-    #t_6_1.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.1 Política comercial
 
     .row.align-items-center.justify-content-center.mb-4
@@ -43,11 +43,11 @@
                 | Expresa de manera sistemática la manera en cómo a nivel nacional se deben mantener las relaciones financieras y monetarias, base fundamental para el funcionamiento de las entidades.
 
     Separador
-    #t_6_2.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.2 Política de crédito
 
     p.mb-2(data-aos="fade-left") La definición de una política de créditos permitirá a una institución financiera el diseño de su política crediticia, que le proporcionará los elementos a fijar en una estrategia conservadora pero fuerte, para su crecimiento constante.
-    p.mb-4(data-aos="fade-left") Algunos de los puntos a tener en cuenta para fijar la política de crédito son los siguientes:
+    p.mb-5(data-aos="fade-left") Algunos de los puntos a tener en cuenta para fijar la política de crédito son los siguientes:
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-12

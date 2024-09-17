@@ -49,18 +49,22 @@
             p Cuando un asesor comercial combina sus cualidades personales con un profundo conocimiento de la política comercial y la normatividad vigente, el impacto en la satisfacción del cliente es significativo. El cliente no solo recibe un servicio que está alineado con sus expectativas y necesidades, sino que también puede estar seguro de que todas las transacciones y recomendaciones cumplen con las regulaciones aplicables. Esto refuerza la confianza del cliente en la entidad financiera y contribuye a una relación a largo plazo basada en la transparencia, la legalidad y la satisfacción mutua.
 
     Separador
-    #t_5_1.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.1 El asesor comercial, ideal de una entidad financiera
 
     p.mb-5(data-aos="fade-left") El asesor comercial de una entidad financiera es una persona experimentada de la empresa, que resolverá todas las dudas y estará siempre a disposición del cliente. Las entidades financieras buscan unas cualidades específicas en los funcionarios para lograr excelentes resultados, ellos deben reunir los siguientes aspectos: formación, actitudes, funciones, conocimientos de la institución y normas de protocolo. 
 
     .row.mb-5.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Características del puesto de trabajo
-
+        h3.d-none.d-sm-none.d-md-block
+          span.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Características del puesto de trabajo
+        div.d-block.d-md-none.fondo-2.px-4.py-1(data-aos="zoom-in-down")
+          ul.lista-ul.mb-0
+            li.mb-0.py-1 
+              i #[span ●] 
+              h3.mb-0 Características del puesto de trabajo
     p.mb-2(data-aos="fade-left") Debido a los constantes y acelerados cambios que se vienen presentando en el sistema financiero colombiano, el punto de venta de productos y servicios ha adquirido una gran importancia, por lo que los funcionarios encargados de esta labor, tienen que tener una serie de características especiales aplicadas al desarrollo de sus funciones, para lograr los objetivos propuestos por la institución y de cada sucursal u oficina.
-    p.mb-4(data-aos="fade-left") Con fundamento en estos cambios presentados en la formulación y venta de los productos y servicios financieros, a continuación, encontrará la descripción de las características del puesto de trabajo:
+    p.mb-5(data-aos="fade-left") Con fundamento en estos cambios presentados en la formulación y venta de los productos y servicios financieros, a continuación, encontrará la descripción de las características del puesto de trabajo:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-12
@@ -70,7 +74,7 @@
           img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema5/fig-2a.svg', alt='En la figura se definen las características del puesto de trabajo y básicamente son dos, las ventas para contacto directo y concertar las operaciones que rentabilicen los recursos captados.')  
           img.d-block.d-md-none(src='@/assets/curso/temas/tema5/fig-2b.svg', alt='En la figura se definen las características del puesto de trabajo y básicamente son dos, las ventas para contacto directo y concertar las operaciones que rentabilicen los recursos captados.') 
 
-    p.mb-4(data-aos="fade-left") Debido a que en la mayoría de los casos el asesor va a captar directamente fondos de los clientes, no puede utilizar sistemas de persuasión demasiado agresivos por la carga emocional que el dinero causa en las personas. Debe emplear técnicas de ventas a baja presión, dar tiempo a su interlocutor para pensar, debe transmitir una impresión de seriedad y honestidad para ganarse la confianza del cliente; de esta manera es necesario conocer algunas de las tareas que desarrolla el asesor.
+    p.mb-5(data-aos="fade-left") Debido a que en la mayoría de los casos el asesor va a captar directamente fondos de los clientes, no puede utilizar sistemas de persuasión demasiado agresivos por la carga emocional que el dinero causa en las personas. Debe emplear técnicas de ventas a baja presión, dar tiempo a su interlocutor para pensar, debe transmitir una impresión de seriedad y honestidad para ganarse la confianza del cliente; de esta manera es necesario conocer algunas de las tareas que desarrolla el asesor.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-12
@@ -81,7 +85,7 @@
           img.d-block.d-md-none(src='@/assets/curso/temas/tema5/fig-3b.svg', alt='Se presentan las tareas del asesor comercial donde las más representativas son realizar acciones de cobranzas y recibir dinero en algunos casos y hacer constantemente la validación de los datos de los clientes.') 
 
     p.mb-2(data-aos="fade-left") Algunas de las tareas realizadas por el asesor comercial, como la gestión de tiempo y comodidad a la hora de pagar sus productos, marcan la diferencia en las entidades y se ven reflejadas en la decisión del cliente, ya que son el valor agregado que el usuario percibe.
-    p.mb-4(data-aos="fade-left") Las personas encargadas de dar asesoría pueden ocupar cargos bastante diversos dentro de la organización o las entidades financieras y desarrollar otras funciones además de las aquí consideradas. En cualquier caso, un asesor comercial desarrolla una serie de funciones que se describen a continuación:
+    p.mb-5(data-aos="fade-left") Las personas encargadas de dar asesoría pueden ocupar cargos bastante diversos dentro de la organización o las entidades financieras y desarrollar otras funciones además de las aquí consideradas. En cualquier caso, un asesor comercial desarrolla una serie de funciones que se describen a continuación:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-12
@@ -91,7 +95,7 @@
           img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema5/fig-4a.svg', alt='Se presentan los 3 conceptos relativos más importantes en las funciones de los asesores comerciales, estos conceptos son organizar la ruta de trabajo priorizando actividades misionales de ventas, seguido por hacer la gestión referente a servicio al cliente y finalización y termina por hacer gestión y ayuda en la oficina o punto de venta en caso de que sea requerido.')  
           img.d-block.d-md-none(src='@/assets/curso/temas/tema5/fig-4b.svg', alt='Se presentan los 3 conceptos relativos más importantes en las funciones de los asesores comerciales, estos conceptos son organizar la ruta de trabajo priorizando actividades misionales de ventas, seguido por hacer la gestión referente a servicio al cliente y finalización y termina por hacer gestión y ayuda en la oficina o punto de venta en caso de que sea requerido.') 
 
-    p.mb-4(data-aos="fade-left") Para ejercer la función de asesor comercial no es necesario disfrutar de ninguna cualidad especial. No obstante, para llegar a tener éxito en el desempeño, hay que poseer ciertas características personales, así como un conjunto de actitudes profesionales, sin las cuales todo esfuerzo de venta y atención al cliente estará condenado a la mediocridad. Las cualidades del asesor deben ser:
+    p.mb-5(data-aos="fade-left") Para ejercer la función de asesor comercial no es necesario disfrutar de ninguna cualidad especial. No obstante, para llegar a tener éxito en el desempeño, hay que poseer ciertas características personales, así como un conjunto de actitudes profesionales, sin las cuales todo esfuerzo de venta y atención al cliente estará condenado a la mediocridad. Las cualidades del asesor deben ser:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-12
@@ -103,10 +107,15 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Conocimientos y formación que requiere un asesor comercial 
+        h3.d-none.d-sm-none.d-md-block
+          span.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Conocimientos y formación que requiere un asesor comercial 
+        div.d-block.d-md-none.fondo-2.px-4.py-1(data-aos="zoom-in-down")
+          ul.lista-ul.mb-0
+            li.mb-0.py-1 
+              i #[span ●] 
+              h3.mb-0 Conocimientos y formación que requiere un asesor comercial 
 
-    p.mb-4(data-aos="fade-left") Un asesor comercial para desempeñarse con éxito necesita recibir unos conocimientos específicos y una formación profesional que le permitan desenvolverse sin problemas en las diversas situaciones que se le pueden plantear.
+    p.mb-5(data-aos="fade-left") Un asesor comercial para desempeñarse con éxito necesita recibir unos conocimientos específicos y una formación profesional que le permitan desenvolverse sin problemas en las diversas situaciones que se le pueden plantear.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-12
@@ -117,7 +126,7 @@
           img.d-block.d-md-none(src='@/assets/curso/temas/tema5/fig-6b.svg', alt='Es una división que comparte los conocimientos que debe tener un asesor comercial basados en conocimientos del banco, de la competencia y de la actividad económica actual del sector y el ambiente; por el lado de la formación es claro el trabajo en ventas, análisis, pensamiento crítico, economía y sentido de análisis.') 
 
     Separador
-    #t_5_2.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.2 #[em Tips] para una asesoría comercial exitosa
 
     p.mb-4(data-aos="fade-left") La asesoría comercial es un arte que combina habilidades técnicas, conocimiento del producto, y una profunda comprensión de las necesidades del cliente. Para un asesor comercial, el éxito no se mide solo por la cantidad de productos vendidos, sino también por la calidad de las relaciones establecidas con los clientes y la satisfacción que estos experimentan al recibir un servicio personalizado y efectivo. A continuación, se presentan algunos #[em tips] esenciales para llevar a cabo una asesoría comercial exitosa en el contexto financiero (Gadea, 2018).

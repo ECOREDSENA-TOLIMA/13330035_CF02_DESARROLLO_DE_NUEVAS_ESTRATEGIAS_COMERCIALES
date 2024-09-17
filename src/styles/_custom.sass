@@ -21,15 +21,21 @@
 
 .fondo-1 
   background: linear-gradient(to bottom, #FFF, #E0FDFB, #FFF)
-  margin-inline: -2rem !important
+  margin-inline: -3rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
-  // background-image: url('../assets/curso/temas/fondo-1.png')
+
+.fondo-1A 
+  background: linear-gradient(to bottom, #FFF, #F2FFED, #FFF)
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 
 .fondo-s1 
   background-image: url('../assets/curso/temas/tema2/fslider.svg')
   background-repeat: no-repeat
   background-size: cover
+  border-radius: 20px
 
 .cajon.color-secundario
   background-color: #E7FFDD
@@ -93,7 +99,22 @@
 .tabs-c__header
   margin-top: 0px
 
-  
+// Color activo:
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  background-color: #fff
+// Color inactivo:
+.tabs-c__tab
+  background-color: #F2F0EC
+// Espacio header:
+.tabs-c__header
+  margin-bottom: 0px
+
+.tabs-a__tab
+  background-color: #F2F0EC
+
+.tabs-a__content-item.tabs-a__content-item--active
+  background-color: #E7FFDD
+  border-radius: 1rem
 
 ///////// Card hover --------------------------------------
 .crd_hover_txt

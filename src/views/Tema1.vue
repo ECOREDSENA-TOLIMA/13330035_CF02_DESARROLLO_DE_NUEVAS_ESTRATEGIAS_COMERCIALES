@@ -9,8 +9,8 @@
     
     p.mb-4(data-aos="fade-left") La satisfacción del cliente es uno de los indicadores más relevantes de la calidad en los productos y servicios que ofrece una entidad financiera. Este concepto no solo se limita a que los productos cumplan con los estándares básicos, sino que implica ir más allá, superando las expectativas de los clientes. En un mercado cada vez más competitivo, la satisfacción del cliente se convierte en un diferenciador clave que puede determinar el éxito o fracaso de una entidad financiera.
 
-    .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
-      .col-lg-4.col-10.mb-4.mb-lg-0(data-aos="fade-right")
+    .row.mb-4.fondo-1A.p-4.justify-content-center.align-items-center
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema1/img_1.png', alt='')
       .col-lg-6.col-12(data-aos="fade-right")

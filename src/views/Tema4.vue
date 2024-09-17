@@ -26,7 +26,7 @@
         SlyderB(:datos="datosSlyder")
 
     Separador
-    #t_4_1.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.1 Características de la calidad del servicio
 
     p.mb-4(data-aos="fade-left") Este aspecto merece una especial atención y requiere que sea tenido en cuenta en todas y cada una de las intervenciones que se tengan con un cliente, si se quiere tener éxito en la prestación del servicio al cliente es necesaria su aplicación. A continuación, se enuncian las principales características de la calidad del servicio:
@@ -63,11 +63,11 @@
             p Anexo 2. Características de la calidad del servicio
 
     Separador
-    #t_4_2.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.2 Satisfacción del cliente
 
     p.mb-2(data-aos="fade-left") La satisfacción del cliente es un objetivo primordial para cualquier entidad financiera, ya que es un indicador clave de su éxito y sostenibilidad a largo plazo. Lograr una satisfacción completa del cliente requiere un enfoque estratégico que va más allá de la simple entrega de productos o servicios. Es necesario considerar varios aspectos fundamentales que influyen en la percepción del cliente sobre la calidad del servicio recibido.
-    p.mb-4(data-aos="fade-left") Para asegurar que un cliente alcance una satisfacción plena con respecto al servicio prestado, se deben tener en cuenta los siguientes aspectos:
+    p.mb-5(data-aos="fade-left") Para asegurar que un cliente alcance una satisfacción plena con respecto al servicio prestado, se deben tener en cuenta los siguientes aspectos:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-4(data-aos="zoom-in-down")

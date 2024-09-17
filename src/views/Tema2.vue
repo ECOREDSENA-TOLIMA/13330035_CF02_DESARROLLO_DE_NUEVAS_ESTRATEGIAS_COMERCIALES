@@ -15,7 +15,7 @@
     p.mb-4(data-aos="fade-left") En el entorno competitivo actual, las técnicas de venta y la comunicación efectiva son herramientas fundamentales para el éxito de las entidades financieras. Estas no solo permiten que los asesores comerciales logren sus objetivos de ventas, sino que también son cruciales para construir relaciones duraderas y de confianza con los clientes. A continuación, se exploran en detalle las técnicas de venta más relevantes y las estrategias de comunicación que deben acompañarlas para maximizar su efectividad (García, 2021).
 
     Separador
-    #t_2_1.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Técnicas de ventas 
 
     p.mb-4(data-aos="fade-left") Las técnicas de venta son el conjunto de estrategias y habilidades que los asesores comerciales emplean para persuadir a los clientes de adquirir productos o servicios financieros. Estas técnicas deben adaptarse a las características del producto, al perfil del cliente y al contexto de la interacción, ya sea en persona, por teléfono o en línea. Algunas de las técnicas más utilizadas en el sector financiero incluyen:
@@ -52,7 +52,7 @@
               img(src='@/assets/curso/temas/tema2/img_5.png', alt='')
 
     p.mb-2(data-aos="fade-left") Para desarrollar las diferentes técnicas de ventas que existen es primordial conocer muy bien los productos y servicios que ofrece la entidad financiera, para de esta manera llegar al cliente y poder responder cualquier inquietud que dé lugar, transmitiéndole la confianza necesaria y que el cliente tome la decisión de adquirirlos; de la misma forma es importante conocer al cliente, siendo esta una manera de conocer sus expectativas reales, actuales y futuras.
-    p.mb-4(data-aos="fade-left") Las técnicas de ventas van de la mano con la comunicación asertiva que se tiene con el cliente, de nada sirve aplicar la técnica si no se tiene la habilidad de comunicarla de una manera eficiente. A continuación, se explican algunas técnicas de venta que se aplican actualmente en las entidades financieras.
+    p.mb-5(data-aos="fade-left") Las técnicas de ventas van de la mano con la comunicación asertiva que se tiene con el cliente, de nada sirve aplicar la técnica si no se tiene la habilidad de comunicarla de una manera eficiente. A continuación, se explican algunas técnicas de venta que se aplican actualmente en las entidades financieras.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-11.col-lg-10.col-12
@@ -63,7 +63,7 @@
           img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-1b.svg', alt='Se presenta un diagrama a manera de mapa conceptual que permite conocer las técnicas de ventas directa y las indirectas, por parte de las técnicas directas se definen como aquellas en las que las personas se ven frente a frente para presentar las propuestas de servicios o productos, esa técnica influye mucho en la comunicación en general, sobre todo la comunicación no verbal. Por le lado de las técnicas indirectas se nombras las técnicas telefónicas, de correo electrónico y televentas.') 
 
     Separador
-    #t_2_2.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Técnicas de comunicación
     
     p.mb-4(data-aos="fade-left") La efectividad de las técnicas de venta mencionadas depende en gran medida de la calidad de la comunicación entre el asesor y el cliente. La comunicación no solo debe ser clara y precisa, sino también adaptada a las necesidades y expectativas del cliente. A continuación, se destacan algunas técnicas de comunicación esenciales para lograr una interacción exitosa:

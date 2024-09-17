@@ -17,26 +17,26 @@
         p.mb-2 Las normas institucionales, que suelen estar alineadas con la legislación nacional, abordan una serie de aspectos clave que son fundamentales para la operación efectiva y responsable de la entidad financiera. Entre estos aspectos se incluyen:
 
     TabsA.color-acento-botones.mb-5(data-aos="fade-right")
-      .tarjeta.color-secundario.p-4(titulo="Atención al cliente")
-        h4 Atención al cliente
+      .p-4(titulo="Atención al cliente")
+        //- h4 Atención al cliente
         p Establece los procedimientos y estándares que deben seguirse para garantizar que los clientes reciban un servicio adecuado, respetuoso y eficiente en todo momento.
-      .tarjeta.color-secundario.p-4(titulo="Manejo de tiempos")
-        h4 Manejo de tiempos
+      .p-4(titulo="Manejo de tiempos")
+        //- h4 Manejo de tiempos
         p Regula los tiempos de respuesta y procesamiento de solicitudes, transacciones y consultas, asegurando que los clientes no experimenten demoras innecesarias en la atención de sus necesidades.
-      .tarjeta.color-secundario.p-4(titulo="Imagen corporativa")
-        h4 Imagen corporativa
+      .p-4(titulo="Imagen corporativa")
+        //- h4 Imagen corporativa
         p Define cómo debe presentarse la entidad ante el público, incluyendo el uso adecuado de la marca, los logotipos, y otros elementos visuales que representan la identidad de la organización.
-      .tarjeta.color-secundario.p-4(titulo="Imagen personal")
-        h4 Imagen personal
+      .p-4(titulo="Imagen personal")
+        //- h4 Imagen personal
         p Incluye directrices sobre la apariencia y el comportamiento de los empleados, que deben reflejar profesionalismo y alinearse con los valores y estándares de la entidad.
-      .tarjeta.color-secundario.p-4(titulo="Distribución de espacios")
-        h4 Distribución de espacios
+      .p-4(titulo="Distribución de espacios")
+        //- h4 Distribución de espacios
         p Regula cómo deben organizarse y utilizarse los espacios físicos de la entidad para asegurar un ambiente de trabajo y atención al cliente seguro, accesible y eficiente.
-      .tarjeta.color-secundario.p-4(titulo="Publicidad")
-        h4 Publicidad
+      .p-4(titulo="Publicidad")
+        //- h4 Publicidad
         p Establece las normas sobre cómo deben realizarse las campañas publicitarias, garantizando que sean veraces, transparentes, y que cumplan con todas las leyes de protección al consumidor y normas de publicidad. 
       
-    p.mb-4(data-aos="fade-left") A continuación, se presenta un compilado de los requisitos legales de obligatorio cumplimiento para las entidades financieras:
+    p.mb-5(data-aos="fade-left") A continuación, se presenta un compilado de los requisitos legales de obligatorio cumplimiento para las entidades financieras:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
