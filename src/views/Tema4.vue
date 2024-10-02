@@ -33,26 +33,26 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-4(data-aos="zoom-in-down")
-        ImagenInfograficaB.color-acento-botones
+        ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema4/info-2A.svg', alt='')
-          div.p-3(x="14%" y="17.8%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white-2.p-3(x="14%" y="17.8%" numero="+")
             .h5.mb-2 Rapidez
             p El cliente no debe esperar sin ser atendido y si no es posible atenderlo por estar con otro cliente u otra razón valedera, decírselo y hacerle saber que tenemos presente que nos está esperando. La indiferencia ante la presencia del cliente ha de ser el peor servicio y a lo sumo en tres minutos causa la irritabilidad del cliente o su retiro de la entidad.
-          div.p-3(x="5.5%" y="50%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white-2.p-3(x="5.5%" y="50%" numero="+")
             .h5.mb-2 Cortesía
             p Es la reina del servicio. La ausencia de la cortesía anula el valor de cualquier otro servicio. Es ahí donde se debe poner en práctica todos los conocimientos de relaciones humanas que se tengan y sacar a brillar la sinceridad y empatía.
-          div.p-3(x="14%" y="80%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white-2.p-3(x="14%" y="80%" numero="+")
             .h5.mb-2 Confiabilidad
             p Debe ser el sello de honestidad en el trato comercial. Es la seguridad que los demás depositan para no ser defraudados.
-          div.p-3(x="86%" y="80%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white-2.p-3(x="86%" y="80%" numero="+")
             .h5.mb-2 Amistad
             p Es más que un servicio al cliente, es algo que debe trascender al negocio, que debe mantenerse aún fuera del ámbito comercial.
-          div.p-3(x="85.8%" y="17.8%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white-2.p-3(x="85.8%" y="17.8%" numero="+")
             .h5.mb-2 Ser escuchado
             p Es también una parte del servicio que se le brinda al cliente. Escuchar con atención a las personas cuando hablan, no solo es muestra de respeto, sino que es muestra del interés en ellos. Escuchar lo que nos dicen sus ojos, sus ademanes, su tono de voz o sus movimientos.
-          div.p-3(x="94.5%" y="50%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white-2.p-3(x="94.5%" y="50%" numero="+")
             .h5.mb-2 Ser comprendido
             p Significa ponerse en la situación de la otra persona y tratar de sentir y pensar lo que ella siente y piensa. Significa la capacidad de poder ver las cosas desde el punto de vista de la otra persona y no solo del nuestro, ponerse en los zapatos del cliente. 
       .col-12.d-block.d-md-none.mb-4
@@ -72,43 +72,43 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-4(data-aos="zoom-in-down")
         LineaTiempoD.color-acento-botones
-          .row(numero="1" titulo="Detectar las demandas de servicio de los clientes vinculados y potenciales") 
+          .row.pt-md-0.pt-2(numero="1" titulo="Detectar las demandas de servicio de los clientes vinculados y potenciales") 
             .col-12.mb-4
               p La primera tarea es comprender las necesidades y expectativas tanto de los clientes actuales como de los potenciales. Esto implica un análisis continuo de sus preferencias, comportamientos y #[em feedback]. Solo al entender profundamente lo que valoran los clientes se puede ajustar el servicio para cumplir y, si es posible, superar sus expectativas.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema4/img_12.png', alt='')
-          .row(numero="2" titulo="El factor determinante es el servicio") 
+          .row.pt-md-0.pt-2(numero="2" titulo="El factor determinante es el servicio") 
             .col-12.mb-4
               p En un entorno donde la mayoría de las entidades financieras ofrecen productos similares, el servicio se convierte en el principal diferenciador. Los clientes valoran la experiencia que reciben tanto como el producto en sí. Un servicio que es rápido, eficiente, y personalizado puede ser la razón por la cual un cliente elige y permanece con una entidad financiera.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema4/img_13.png', alt='')
-          .row(numero="3" titulo="La calidad del producto no es considerada como un factor de peso") 
+          .row.pt-md-0.pt-2(numero="3" titulo="La calidad del producto no es considerada como un factor de peso") 
             .col-12.mb-4
               p Aunque la calidad del producto es importante, en muchos casos, se asume que todos los competidores ofrecen productos de calidad similar. Por lo tanto, la calidad del producto no es el principal factor diferenciador. De manera similar, el precio tampoco suele ser un factor decisivo, ya que la competencia puede igualar o incluso mejorar las ofertas de precios.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema4/img_14.png', alt='')
-          .row(numero="4" titulo="El valor del servicio como factor de competencia") 
+          .row.pt-md-0.pt-2(numero="4" titulo="El valor del servicio como factor de competencia") 
             .col-12.mb-4
               p Cada vendedor y asesor debe comprender que el servicio es un poderoso elemento de competencia. Al enfocarse en ofrecer un servicio excepcional, no solo se satisfacen las demandas actuales de los clientes, sino que se fomenta la lealtad y se incrementa la base de clientes a través de recomendaciones y repeticiones de negocios.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema4/img_15.png', alt='')
-          .row(numero="5" titulo="El cliente opta por mejor servicio al igual que por precio y producto") 
+          .row.pt-md-0.pt-2(numero="5" titulo="El cliente opta por mejor servicio al igual que por precio y producto") 
             .col-12.mb-4
               p Cuando se enfrentan a opciones similares en términos de precio y producto, los clientes tienden a optar por la entidad que ofrece un mejor servicio. Un buen servicio puede compensar otros factores, y a menudo es lo que lleva a los clientes a elegir una opción sobre otra.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema4/img_16.png', alt='')
-          .row(numero="6" titulo="El servicio marca la diferencia") 
+          .row.pt-md-0.pt-2(numero="6" titulo="El servicio marca la diferencia") 
             .col-12.mb-4
               p Dado que el precio y el producto son elementos fácilmente imitables por la competencia, es el servicio el que realmente puede marcar la diferencia. Un servicio de calidad crea una ventaja competitiva difícil de replicar, ya que depende de la cultura organizacional, la capacitación del personal y el enfoque estratégico de la entidad.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema4/img_17.png', alt='')
-          .row(numero="7" titulo="No prestar un buen servicio es trabajar para la competencia") 
+          .row.pt-md-0.pt-2(numero="7" titulo="No prestar un buen servicio es trabajar para la competencia") 
             .col-12.mb-4
               p Finalmente, es crucial entender que un mal servicio no solo afecta la reputación de la entidad, sino que también beneficia directamente a la competencia. Los clientes insatisfechos no solo se van, sino que pueden compartir sus malas experiencias con otros, lo que amplifica el impacto negativo. Por lo tanto, cada interacción con el cliente debe ser vista como una oportunidad para consolidar la relación y diferenciarse de la competencia. 
             .col-12

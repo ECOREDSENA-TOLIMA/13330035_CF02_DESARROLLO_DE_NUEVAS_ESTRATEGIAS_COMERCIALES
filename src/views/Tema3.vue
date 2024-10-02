@@ -86,23 +86,23 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-4(data-aos="zoom-in-down")
-        ImagenInfograficaB.color-acento-botones
+        ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema3/info-1A.svg', alt='')
-          div.p-3(x="20.2%" y="62%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white.p-3(x="20.2%" y="62%" numero="+")
             .h5.mb-2 Comunidad de mercadeo
             p Los bancos varían en tamaño y capacidad. Se trata del número de sucursales con los que cuentan las entidades financieras en el país, adoptando estrategias de mercadeo locales según su ubicación y el mercado objetivo.
-          div.p-3(x="50%" y="62%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white.p-3(x="50%" y="62%" numero="+")
             .h5.mb-2 Empaquetar producto
             p Venta conjunta de productos, como por ejemplo, cuenta de cheques gratis para aquellos que abran una cuenta de ahorros. Debido a esto se ha convertido en una práctica común implementar soluciones de las estrategias de agrupaciones exitosas y creativas.
-          div.p-3(x="79.6%" y="62%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white.p-3(x="79.6%" y="62%" numero="+")
             .h5.mb-2 Productos preaprobados
             p Los consumidores son más propensos a decir que sí a algo cuando ya saben que son aprobados para ello. Las entidades estudian sus clientes y seleccionan a los identificados con tendencias positivas e historial de crédito, se les envía una "pre aprobación" en letras de tarjetas de crédito, líneas de crédito o préstamos hipotecarios.
-          div.p-3(x="65%" y="52%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white.p-3(x="65%" y="52%" numero="+")
             .h5.mb-2 Servicios de primera
             p Los servicios de primera están diseñados para atraer clientela de alto valor neto para el banco. Los clientes de alto patrimonio a menudo tienen necesidades diferentes, así como expectativas. Al ofrecer un conjunto selecto de banqueros privados para manejar personalmente todas las operaciones y revisiones de cuentas aumenta lo confianza de clientes.
-          div.p-3(x="35.2%" y="52%" numero="+" tooltip="Clic para ver información")
+          div.tarjeta.color-white.p-3(x="35.2%" y="52%" numero="+")
             .h5.mb-2 Cajeros referidos
             p Los cajeros de banco interactúan con la mayoría de la clientela bancaria. Estos realizan las operaciones del día a día, tales como cambio de cheques, depósitos o transferencias de dinero. El éxito de los bancos es capacitar constantemente a los cajeros para buscar oportunidades de productos bancarios, de venta cruzada y remitir a los clientes a la persona adecuada. Los bancos recompensan los mejores cajeros inteligentes que se toman tiempo para referir o sugerir un nuevo producto o servicio.
       .col-12.d-block.d-md-none.mb-4

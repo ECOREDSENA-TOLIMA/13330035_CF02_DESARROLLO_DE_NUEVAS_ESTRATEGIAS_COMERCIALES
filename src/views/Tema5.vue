@@ -15,7 +15,7 @@
     p.mb-4(data-aos="fade-left") La asesoría comercial en una entidad financiera es una función crítica que va más allá de la simple interacción con el cliente. El éxito de esta función no depende únicamente de las cualidades personales del asesor, como la empatía, la comunicación efectiva y la capacidad de persuasión. Aunque estas habilidades son fundamentales, el verdadero valor de la asesoría comercial radica en la capacidad del asesor para integrar y aplicar de manera efectiva el conocimiento sobre la política comercial de la entidad y la normatividad legal vigente.
     
     TabsC.color-acento-botones(data-aos="flip-up")
-      .py-3.py-md-4(titulo="Política comercial")
+      .py-3.py-md-4(titulo="Cumplimiento de la política comercial")
         .row.p-3
           .col-lg-4.col-12.mb-4.mb-lg-0
             figure
@@ -23,7 +23,7 @@
           .col-lg-8.col-12
             h4 Cumplimiento de la política comercial
             p La política comercial de una entidad financiera establece las directrices y estrategias que deben seguirse para la comercialización de productos y servicios. Esta política no solo orienta las acciones comerciales, sino que también asegura que las operaciones de la entidad estén alineadas con sus objetivos estratégicos y con el marco regulatorio aplicable. Los asesores comerciales deben estar plenamente familiarizados con estas políticas para poder ofrecer productos y servicios que no solo satisfagan las necesidades de los clientes, sino que también sean coherentes con los lineamientos establecidos por la entidad. Un asesor bien informado sobre la política comercial puede adaptar su enfoque de ventas para cumplir con las expectativas de los clientes, mientras contribuye a los objetivos de la entidad, como el crecimiento de la cartera de clientes, la fidelización y la mitigación de riesgos.
-      .py-3.py-lg-4(titulo="Cumplimiento de la normatividad")
+      .py-3.py-lg-4(titulo="Cumplimiento de la normatividad legal vigente")
         .row.p-3
           .col-lg-4.col-12.mb-4.mb-lg-0
             figure
@@ -31,7 +31,7 @@
           .col-lg-8.col-12
             h4 Cumplimiento de la normatividad legal vigente
             p La normatividad legal en el sector financiero es compleja y en constante evolución. Incluye regulaciones nacionales e internacionales que rigen aspectos como la protección al consumidor, la transparencia en las transacciones, la prevención del lavado de dinero, y el cumplimiento tributario, entre otros. Un asesor comercial debe estar actualizado y comprender en profundidad estas normativas para asegurar que las operaciones realizadas no solo sean efectivas desde el punto de vista comercial, sino también legales y éticas. Esto no solo protege a la entidad de posibles sanciones, sino que también refuerza la confianza del cliente en la entidad. Cuando un asesor demuestra un sólido conocimiento de la normativa, puede guiar al cliente con seguridad y precisión, asegurando que cada transacción cumpla con las leyes aplicables y con las políticas internas de la entidad.
-      .py-3.py-lg-4(titulo="Enriquecimiento continuo")
+      .py-3.py-lg-4(titulo="Enriquecimiento continuo del asesor")
         .row.p-3
           .col-lg-4.col-12.mb-4.mb-lg-0
             figure
@@ -39,7 +39,7 @@
           .col-lg-8.col-12
             h4 Enriquecimiento continuo del asesor
             p Además de cumplir con la política comercial y la normatividad legal, es fundamental que el asesor comercial busque un enriquecimiento continuo de su conocimiento y habilidades. Esto implica estar al tanto de las últimas tendencias en el mercado financiero, así como de las actualizaciones en las políticas y normativas que puedan afectar su trabajo. La formación continua y el desarrollo profesional son esenciales para que el asesor no solo se mantenga competente, sino que también pueda ofrecer un valor agregado a sus clientes. Un asesor bien informado y capacitado puede anticipar cambios en el entorno regulatorio y comercial, y ajustar su enfoque en consecuencia, lo que le permite proporcionar un servicio más completo y eficaz.
-      .py-3.py-lg-4(titulo="Impacto en la satisfacción")
+      .py-3.py-lg-4(titulo="Impacto en la satisfacción del cliente y el cumplimiento normativo")
         .row.p-3
           .col-lg-4.col-12.mb-4.mb-lg-0
             figure

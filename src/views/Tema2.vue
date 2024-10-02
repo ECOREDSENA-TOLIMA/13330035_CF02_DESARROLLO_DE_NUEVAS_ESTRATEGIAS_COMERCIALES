@@ -45,7 +45,7 @@
               img(src='@/assets/curso/temas/tema2/img_4.png', alt='')
         .row
           .col-lg-7.col-12.mb-4.mb-lg-0
-            h4 #[em Venta emocional]
+            h4 Venta emocional
             p Esta técnica se basa en conectar con el cliente a nivel emocional, entendiendo y apelando a sus deseos, miedos o aspiraciones. En el sector financiero, esto podría implicar enfocarse en la seguridad y tranquilidad que un producto financiero puede ofrecer a largo plazo. Los asesores que dominan esta técnica saben cómo crear un vínculo emocional con el cliente, lo que facilita la toma de decisiones favorables.
           .col-lg-5.col-12
             figure
@@ -59,8 +59,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Técnicas de venta</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/fig-1a.svg', alt='Se presenta un diagrama a manera de mapa conceptual que permite conocer las técnicas de ventas directa y las indirectas, por parte de las técnicas directas se definen como aquellas en las que las personas se ven frente a frente para presentar las propuestas de servicios o productos, esa técnica influye mucho en la comunicación en general, sobre todo la comunicación no verbal. Por le lado de las técnicas indirectas se nombras las técnicas telefónicas, de correo electrónico y televentas.')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-1b.svg', alt='Se presenta un diagrama a manera de mapa conceptual que permite conocer las técnicas de ventas directa y las indirectas, por parte de las técnicas directas se definen como aquellas en las que las personas se ven frente a frente para presentar las propuestas de servicios o productos, esa técnica influye mucho en la comunicación en general, sobre todo la comunicación no verbal. Por le lado de las técnicas indirectas se nombras las técnicas telefónicas, de correo electrónico y televentas.') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/fig-1a.svg', alt='Se presenta un diagrama a manera de mapa conceptual que permite conocer las técnicas de ventas directa y las indirectas, por parte de las técnicas directas se definen como aquellas en las que las personas se ven frente a frente para presentar las propuestas de servicios o productos, esa técnica influye mucho en la comunicación en general, sobre todo la comunicación no verbal. Por el lado de las técnicas indirectas se nombras las técnicas telefónicas, de correo electrónico y televentas.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-1b.svg', alt='Se presenta un diagrama a manera de mapa conceptual que permite conocer las técnicas de ventas directa y las indirectas, por parte de las técnicas directas se definen como aquellas en las que las personas se ven frente a frente para presentar las propuestas de servicios o productos, esa técnica influye mucho en la comunicación en general, sobre todo la comunicación no verbal. Por el lado de las técnicas indirectas se nombras las técnicas telefónicas, de correo electrónico y televentas.') 
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")

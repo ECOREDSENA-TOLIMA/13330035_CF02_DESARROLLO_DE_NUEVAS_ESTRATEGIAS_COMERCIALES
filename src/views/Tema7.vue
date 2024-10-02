@@ -68,7 +68,7 @@
               tr
                 th Ley 510 de 1999
                 td 
-                  p.mb-0 Por la cual se dictan disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencia bancaria y de valores y se conceden unas facultades.
+                  p.mb-0 Por la cual se dictan disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, la Superintendencia bancaria y de valores y se conceden unas facultades.
               tr
                 th Ley 546 de 1999
                 td 

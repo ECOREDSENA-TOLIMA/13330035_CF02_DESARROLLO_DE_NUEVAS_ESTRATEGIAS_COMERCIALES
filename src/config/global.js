@@ -227,8 +227,7 @@ export default {
     },
     {
       referencia: 'García P, E. (2021). Técnicas de venta. Paraninfo. ',
-      link:
-        'https://www.paraninfo.es/catalogo/9788413673172/uf0031---tecnicas-de-venta',
+      link: '',
     },
     {
       referencia:
